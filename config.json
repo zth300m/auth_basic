@@ -1,0 +1,8 @@
+{
+    "auth": {
+        "users": [
+            {"username": "us1", "password": "pw1"},
+            {"username": "us2", "password": "pw2"}
+        ]
+    }
+}

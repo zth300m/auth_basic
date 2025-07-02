@@ -1,0 +1,12 @@
+{
+    "auth": {
+        "usernames": [
+            "us1",
+            "us2"
+        ],
+        "hashed_passwords": [
+            "$2b$12$8zkmnQDe0MGNF26ZItVJRemzFEajFFIcYjDvJugNqwVa/QsBJgewq",
+            "$2b$12$k3x5p5mHPqAgdecpRWraruYoEYn/WaIgqy54oI1BenZTV/8J8Ra4O"
+        ]
+    }
+}
