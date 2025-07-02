@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# 環境構築
+.env
+.venv/
+venv/
+env/
+Pipfile.lock
+poetry.lock
+
+# IDE・エディタ
+.vscode/
+.idea/
+*.swp
+
+# OS固有
+.DS_Store
+Thumbs.db
+
+# テスト出力
+htmlcov/
+.coverage
+.tox/
+
+# ログ
+*.log
+
+# Uvicornリロード用
+.reload
+
+# FastAPIのドキュメントキャッシュ（必要に応じて）
+.openapi.json
+
+# その他
+*.db
